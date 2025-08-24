@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1755691577009,
+    "name": "Giani Kewal Singh",
+    "position": "Patron",
+    "description": "Guiding the organization with wisdom and spiritual leadership",
+    "achievements": "Spiritual Guide, Mentor",
+    "preview": "/uploads/1755691576936-1-Giani Kewal Singh-Patron.jpg",
+    "createdAt": "2025-08-20T12:06:17.009Z",
+    "updatedAt": "2025-08-20T12:08:23.633Z"
+  },
+  {
+    "id": 1755691691538,
+    "name": "Salochan bir Singh",
+    "position": "President",
+    "description": "Leading the organization with vision and dedication to community service",
+    "achievements": "Community Leader, Strategic Visionary",
+    "preview": "/uploads/1755691690980-2 S.Salochan bir Singh-President.jpg",
+    "createdAt": "2025-08-20T12:08:11.538Z"
+  },
+  {
+    "id": 1755691796142,
+    "name": "S.Khushhal Singh",
+    "position": "Sr.Vice President",
+    "description": "Supporting organizational growth and fostering community relationships",
+    "achievements": "Operations Excellence, Team Leadership",
+    "preview": "/uploads/1755691796136-3 S.Khushhal Singh-Sr.Vice President.jpg",
+    "createdAt": "2025-08-20T12:09:56.142Z"
+  },
+  {
+    "id": 1755691885356,
+    "name": "S.Major Singh-Finance",
+    "position": "Finance Secretary",
+    "description": "Ensuring financial transparency and strategic resource management.",
+    "achievements": "Financial Strategist, Resource Manager",
+    "preview": "/uploads/1755691885322-4 S.Major Singh-Finance Secretary.jpg",
+    "createdAt": "2025-08-20T12:11:25.356Z"
+  },
+  {
+    "id": 1755691947350,
+    "name": "S.Gurkirpal Singh",
+    "position": "Secretary",
+    "description": "",
+    "achievements": "",
+    "preview": "/uploads/1755691947346-5 S.Gurkirpal Singh-Secretary.jpg",
+    "createdAt": "2025-08-20T12:12:27.350Z"
+  },
+  {
+    "id": 1755691980802,
+    "name": "S.Pritam Singh",
+    "position": "Joint Secretary",
+    "description": "",
+    "achievements": "",
+    "preview": "/uploads/1755691980797-6 S.Pritam Singh- Joint Secretary.jpg",
+    "createdAt": "2025-08-20T12:13:00.802Z"
+  }
+]
