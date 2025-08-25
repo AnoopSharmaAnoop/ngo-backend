@@ -168,6 +168,12 @@ if (!fs.existsSync(uploadsDir)) {
   console.log('Created uploads directory');
 }
 
+app.get("/", (req, res) => {
+  res.send("✅ NGO Members Backend is running! Use /members to get data.");
+});
+
+
+
 app.listen(PORT, () => {
   console.log(`✅ Server running at http://localhost:${PORT}`);
   console.log('Available endpoints:');
